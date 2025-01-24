@@ -1,1 +1,1 @@
-# Games Store repository
+# Games Store Repository
